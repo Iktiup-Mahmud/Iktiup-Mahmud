@@ -36,7 +36,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-Green?style=for-the-badge&logo=WhatsApp&logoColor=Green)](https://wa.me/8801767880479)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=WhatsApp&logoColor=green)](https://wa.me/8801767880479)
 
 
 ---
