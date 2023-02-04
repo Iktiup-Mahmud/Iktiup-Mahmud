@@ -36,7 +36,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iktiup-mahmud/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=red)](https://www.linkedin.com/in/iktiup-mahmud/)
 
 
 ---
@@ -56,13 +56,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" title="Express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNOSvjGD0isR2SOl6Vj8FY6HuOWsKIibhjodGMP6TCxTQyVUBxQR12Dk4QT7RkNmfDbw&usqp=CAU" title="Express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="FireBase"  alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.dribbble.com/users/3061686/screenshots/17599145/figma-logo-2_4x.png" title="Figma"  alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://www.liblogo.com/img-logo/fi441fc32-figma-logo-figma-tips-and-tricks-rusmir-arnautovic-creative-designer-ux-ui.png" title="Figma"  alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator"  alt="illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="photo-shop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere-Pro"  alt="premiere-pro" width="40" height="40"/>&nbsp;
@@ -79,8 +79,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktiup-Mahmud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<div>
 ### :writing_hand: My Resume : 
+<div>
 <a href='https://drive.google.com/file/d/1JnPy42ee-hlaSZn7CMzhuOrKflOOoU-E/view'>
  <img src="https://toppng.com/uploads/preview/pdf-icon-11549528510ilxx4eex38.png" title="pdf" alt="pdf" width="40" height="40"/>&nbsp;
  </a>
