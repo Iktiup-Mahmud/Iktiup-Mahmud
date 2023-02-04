@@ -1,23 +1,23 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/iktiup-mahmud/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@iktiupmahmud8736">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.facebook.com/seyam79.3">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=kktiup-mahmud&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=iktiup-mahmud&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -71,5 +71,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktiup-Mahmud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
+<div>
+### :writing_hand: Blog Posts : 
+<a href='https://drive.google.com/file/d/1JnPy42ee-hlaSZn7CMzhuOrKflOOoU-E/view'>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pdf/pdf-original.svg" title="pdf" alt="pdf" width="40" height="40"/>&nbsp;
+ </a>
+</div>
