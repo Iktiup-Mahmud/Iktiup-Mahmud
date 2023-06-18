@@ -78,6 +78,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktiup-Mahmud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![iktiup's github stats](https://github-readme-stats.vercel.app/api?username=iktiup-mahmud&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 ---
 ### :writing_hand: My Resume : 
 <div>
