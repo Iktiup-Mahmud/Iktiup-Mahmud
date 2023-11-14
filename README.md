@@ -17,6 +17,7 @@
 <!---
 <img src="https://komarev.com/ghpvc/?username=iktiup-mahmud&style=flat-square&color=blue" alt=""/>
 <h1>
+https://github-readme-stats.vercel.app/api?username=Iktiup-Mahmud&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&bg_color=FEFEFF&icon_color=fb8c01&title_color=fb8c01)
 ----->
   Hey there, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -81,6 +82,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktiup-Mahmud&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![iktiup's github stats](https://github-readme-stats.vercel.app/api?username=iktiup-mahmud&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
 
 ---
 ### :writing_hand: My Resume : 
